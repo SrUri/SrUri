@@ -9,7 +9,7 @@
 
 Graduado en **Ingeniería Informática** (URV) + Erasmus en **UNINA** y **Grado Profesional de Música** (Vila-seca).
 
-- 🔭 **Trabajo actual:** Técnico de Comunicaciones y Hardware en **PortAventura World**.
+- 🗂️ **Trabajo actual:** Técnico de Comunicaciones y Hardware en **PortAventura World**.
 - 🎯 **Foco:** Desarrollo Full Stack, Inteligencia Artificial y Diseño UI/UX.
 
 ---
@@ -36,6 +36,7 @@ Graduado en **Ingeniería Informática** (URV) + Erasmus en **UNINA** y **Grado 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM_%2F_GAS-0091BD?style=flat-square&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
