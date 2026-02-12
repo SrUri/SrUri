@@ -11,6 +11,7 @@ Graduado en **Ingeniería Informática** (URV) + Erasmus en **UNINA** y **Grado 
 
 - 🗂️ **Trabajo actual:** Técnico de Comunicaciones y Hardware en **PortAventura World**.
 - 🎯 **Foco:** Desarrollo Full Stack, Inteligencia Artificial y Diseño UI/UX.
+- 🌍 **Idiomas:** Castellano y Catalan nativo. Inglés First. Italiano básico.
 
 ---
 
