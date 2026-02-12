@@ -1,8 +1,5 @@
 <div align="center">
   <h1>Oriol Poblet Roca</h1>
-  
-  <h3>👨‍💻 Ingeniero Informático </h3>
-
   <a href="https://linkedin.com/in/oriol-poblet">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
