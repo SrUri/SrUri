@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
   <h1>Oriol Poblet Roca</h1>
   
   <h3>👨‍💻 Ingeniero Informático </h3>
@@ -50,7 +49,7 @@ Graduado en **Ingeniería Informática** (URV) + Erasmus en **UNINA** y **Grado 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrUri&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrUri&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
