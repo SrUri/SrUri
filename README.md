@@ -10,8 +10,6 @@
 
 ---
 
-### Sobre mí
-
 Graduado en **Ingeniería Informática** (URV) + Erasmus en **UNINA** y **Grado Profesional de Música** (Vila-seca).
 
 - 🔭 **Trabajo actual:** Técnico de Comunicaciones y Hardware en **PortAventura World**.
@@ -19,9 +17,7 @@ Graduado en **Ingeniería Informática** (URV) + Erasmus en **UNINA** y **Grado 
 
 ---
 
-### 🛠️ Tech Stack
-
-**💻 Desarrollo Web & Diseño**
+**💻 Desarrollo Web**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -31,25 +27,22 @@ Graduado en **Ingeniería Informática** (URV) + Erasmus en **UNINA** y **Grado 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-**🤖 Inteligencia Artificial & Data**
+**🤖 Inteligencia Artificial**
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Beautiful_Soup-white?style=flat-square&logo=pypi&logoColor=3776AB" />
 </p>
 
-**⚙️ Herramientas**
+**⚙️ Extra**
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrUri&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrUri&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
